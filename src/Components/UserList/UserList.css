@@ -1,0 +1,35 @@
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  li {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 4px;
+    padding: 20px;
+    margin: 50px;
+    width: 250px;
+    height: 150px;
+    list-style: none;
+    background-color:#19d3da;
+    
+  }
+  a {
+    font-family: "Helvetica", sans-serif;
+    text-decoration: none;
+    color:white;
+  }
+  a:hover {
+    font-weight: bold;
+    color: #373a40;
+    
+  }
+  .username {
+    font-size: 22px;
+    font-weight: bold;
+  }
+  

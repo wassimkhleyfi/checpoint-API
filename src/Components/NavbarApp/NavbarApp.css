@@ -1,0 +1,33 @@
+body {
+
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.backgroundph {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin-left: 570px;
+    padding-top: 10px;
+}
+.navbar{
+    background-color: white;
+    border-style: hidden;
+    padding: 18px; 
+    text-align: center;
+    width: auto;
+    position: sticky;
+    top:0;
+    z-index: 1;
+}
+
+.navbar h1{
+    color: gray;
+    text-decoration: none;
+    padding: 10px;
+    font-family: "Helvetica";
+    text-decoration: none;
+    font-size: 24px;
+    
+  
+}
